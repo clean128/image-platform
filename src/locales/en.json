@@ -1,4 +1,3 @@
-// Add English translations
 {
   "common": {
     "cancel": "Cancel",
@@ -73,7 +72,8 @@
     "passwordResetSuccessMessage": "You can now log in with your new password",
     "resetPasswordError": "An error occurred while resetting your password",
     "resetPasswordFailed": "Failed to reset password",
-    "invalidCredentials": "Invalid email or password"
+    "invalidCredentials": "Invalid email or password",
+    "invalidResetToken": "Invalid or expired password reset token"
   },
   "validation": {
     "emailRequired": "Email is required",

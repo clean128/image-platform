@@ -1,4 +1,3 @@
-// Add Arabic translations (partial)
 {
   "common": {
     "cancel": "إلغاء",
@@ -56,7 +55,11 @@
     "acceptTerms": "أوافق على",
     "termsOfService": "شروط الخدمة",
     "and": "و",
-    "privacyPolicy": "سياسة الخصوصية"
+    "privacyPolicy": "سياسة الخصوصية",
+    "enterNewPassword": "أدخل كلمة المرور الجديدة أدناه",
+    "newPassword": "كلمة المرور الجديدة",
+    "enterNewPassword": "أدخل كلمة المرور الجديدة",
+    "invalidResetToken": "رمز إعادة تعيين كلمة المرور غير صالح أو منتهي الصلاحية"
   },
   "images": {
     "uploadNewImage": "رفع صورة جديدة",
